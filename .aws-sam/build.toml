@@ -2,7 +2,7 @@
 
 [function_build_definitions]
 [function_build_definitions.aba28628-4247-48c6-9119-63a579aaec8b]
-codeuri = "C:\\Users\\HIGGINBOTTOMM\\dev\\AWS\\my-sam-app\\python-debugging\\hello_world"
+codeuri = "hello_world/"
 runtime = "python3.8"
 source_md5 = ""
 packagetype = "Zip"
